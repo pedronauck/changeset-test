@@ -1,0 +1,33 @@
+{
+  "name": "@changeset-test123/css",
+  "version": "0.6.0",
+  "license": "Apache-2.0",
+  "main": "src/index.ts",
+  "publishConfig": {
+    "access": "public",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts",
+    "typings": "dist/index.d.ts",
+    "exports": {
+      ".": {
+        "require": "dist/index.js",
+        "default": "dist/index.mjs"
+      }
+    },
+    "files": [
+      "dist"
+    ]
+  },
+  "scripts": {
+    "build": "tsup --dts",
+    "ts:check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@radix-ui/colors": "^0.1.8",
+    "@stitches/react": "^1.2.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "classnames": "^2.3.1"
+  }
+}

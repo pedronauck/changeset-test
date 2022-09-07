@@ -1,0 +1,11 @@
+**/*.template
+.changeset
+.coverage_*
+.github
+CHANGELOG.md
+coverage
+design-system/react/.jest-test-results.json
+dist
+node_modules
+pnpm-lock.yaml
+storybook-static
