@@ -5,8 +5,8 @@
 
 [github-action-image]: https://github.com/pedronauck/changeset-test/workflows/%E2%9C%85%20test/badge.svg
 [github-action-url]: https://github.com/pedronauck/changeset-test/actions?query=workflow%3A%22%E2%9C%85+test%22
-[codecov-image]: https://img.shields.io/codecov/c/github/pedronauck/changeset-test/master.svg?style=flat-square
-[codecov-url]: https://codecov.io/gh/pedronauck/changeset-test/branch/master
+[codecov-image]: https://img.shields.io/codecov/c/github/pedronauck/changeset-test/main.svg?style=flat-square
+[codecov-url]: https://codecov.io/gh/pedronauck/changeset-test/branch/main
 
 <br>
 

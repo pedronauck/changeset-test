@@ -27,7 +27,7 @@
     "changeset": "changeset",
     "changeset:release": "changeset publish --no-git-tag",
     "changeset:version": "changeset version",
-    "changeset:check": "changeset status --since=master",
+    "changeset:check": "changeset status --since=main",
     "dev": "turbo run dev --parallel",
     "deps:update": "updates -gu && pnpm -r exec updates -gu",
     "lint:check": "eslint . --ext .ts,.tsx,.js,.jsx",
