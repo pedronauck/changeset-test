@@ -1,5 +1,5 @@
 // Really great work done by Diego Haz on this one
-// https://github.com/reakit/reakit/blob/master/packages/reakit-utils/src/tabbable.ts
+// https://github.com/reakit/reakit/blob/main/packages/reakit-utils/src/tabbable.ts
 
 import { getOwnerDocument, isHTMLElement } from './dom';
 
