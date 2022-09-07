@@ -3,17 +3,17 @@
 [![CI status][github-action-image]][github-action-url]
 [![codecov][codecov-image]][codecov-url]
 
-[github-action-image]: https://github.com/fuellabs/fuel-ui/workflows/%E2%9C%85%20test/badge.svg
-[github-action-url]: https://github.com/fuellabs/fuel-ui/actions?query=workflow%3A%22%E2%9C%85+test%22
-[codecov-image]: https://img.shields.io/codecov/c/github/fuellabs/fuel-ui/master.svg?style=flat-square
-[codecov-url]: https://codecov.io/gh/fuellabs/fuel-ui/branch/master
+[github-action-image]: https://github.com/pedronauck/changeset-test/workflows/%E2%9C%85%20test/badge.svg
+[github-action-url]: https://github.com/pedronauck/changeset-test/actions?query=workflow%3A%22%E2%9C%85+test%22
+[codecov-image]: https://img.shields.io/codecov/c/github/pedronauck/changeset-test/master.svg?style=flat-square
+[codecov-url]: https://codecov.io/gh/pedronauck/changeset-test/branch/master
 
 <br>
 
-[![License](https://img.shields.io/github/license/fuellabs/fuel-ui)](https://github.com/fuellabs/fuel-ui)
-[![Issues Open](https://img.shields.io/github/issues/fuellabs/fuel-ui)](https://github.com/fuellabs/fuel-ui)
-[![Github Forks](https://img.shields.io/github/forks/fuellabs/fuel-ui)](https://github.com/fuellabs/fuel-ui)
-[![Github Stars](https://img.shields.io/github/stars/fuellabs/fuel-ui)](https://github.com/fuellabs/fuel-ui)
+[![License](https://img.shields.io/github/license/pedronauck/changeset-test)](https://github.com/pedronauck/changeset-test)
+[![Issues Open](https://img.shields.io/github/issues/pedronauck/changeset-test)](https://github.com/pedronauck/changeset-test)
+[![Github Forks](https://img.shields.io/github/forks/pedronauck/changeset-test)](https://github.com/pedronauck/changeset-test)
+[![Github Stars](https://img.shields.io/github/stars/pedronauck/changeset-test)](https://github.com/pedronauck/changeset-test)
 
 <h2>📝&nbsp; Table of Content</h2>
 

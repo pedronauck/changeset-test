@@ -6,7 +6,7 @@ const { getInfo } = require('@changesets/get-github-info');
 
 config();
 
-const REPO = 'FuelLabs/fuel-ui';
+const REPO = 'pedronauck/changeset-test';
 const SEE_LINE = /^See:\s*(.*)/i;
 const TRAILING_CHAR = /[.;:]$/g;
 const listFormatter = new Intl.ListFormat('en-US');
