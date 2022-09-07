@@ -4,8 +4,8 @@
 
 ### Patch Changes
 
-- 🐞 Fix: remove file extensions on setupFiles config inside @changeset-test123/test-utils, by [@pedronauck](https://github.com/pedronauck) (See [#134](https://github.com/FuelLabs/fuel-ui/pull/134))
-- 🐞 Fix: add config and setup files to export on package.json of @changeset-test123/test-utils, by [@pedronauck](https://github.com/pedronauck) (See [#133](https://github.com/FuelLabs/fuel-ui/pull/133))
+- 🐞 Fix: remove file extensions on setupFiles config inside @changeset-test123/test-utils, by [@pedronauck](https://github.com/pedronauck) (See [#134](https://github.com/pedronauck/changeset-test/pull/134))
+- 🐞 Fix: add config and setup files to export on package.json of @changeset-test123/test-utils, by [@pedronauck](https://github.com/pedronauck) (See [#133](https://github.com/pedronauck/changeset-test/pull/133))
 
 ## 0.5.0
 
@@ -19,4 +19,4 @@
 
 ### Patch Changes
 
-- Add changesets to monorepo, by [@pedronauck](https://github.com/pedronauck) (See [#46](https://github.com/FuelLabs/fuel-ui/pull/46))
+- Add changesets to monorepo, by [@pedronauck](https://github.com/pedronauck) (See [#46](https://github.com/pedronauck/changeset-test/pull/46))

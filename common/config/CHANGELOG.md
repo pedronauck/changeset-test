@@ -14,4 +14,4 @@
 
 ### Patch Changes
 
-- Add changesets to monorepo, by [@pedronauck](https://github.com/pedronauck) (See [#46](https://github.com/FuelLabs/fuel-ui/pull/46))
+- Add changesets to monorepo, by [@pedronauck](https://github.com/pedronauck) (See [#46](https://github.com/pedronauck/changeset-test/pull/46))

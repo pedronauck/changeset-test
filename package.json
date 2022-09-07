@@ -8,14 +8,14 @@
     "node": ">=16",
     "pnpm": ">=7"
   },
-  "homepage": "https://github.com/FuelLabs/fuel-ui#readme",
+  "homepage": "https://github.com/pedronauck/changeset-test#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FuelLabs/fuel-ui.git"
+    "url": "git+https://github.com/pedronauck/changeset-test.git"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/FuelLabs/fuel-ui/issues"
+    "url": "https://github.com/pedronauck/changeset-test/issues"
   },
   "workspaces": [
     "./common/*",
