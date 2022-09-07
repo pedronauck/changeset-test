@@ -1,5 +1,15 @@
 # @changeset-test123/config
 
+## 1.0.0
+
+### Major Changes
+
+- test1, by [@pedronauck](https://github.com/pedronauck) (See [`1cddfa9`](https://github.com/pedronauck/changeset-test/commit/1cddfa9b10c36fc3b0c2125c4dc64c9e5f9efe11))
+
+### Minor Changes
+
+- test 23, by [@pedronauck](https://github.com/pedronauck) (See [`f7e5300`](https://github.com/pedronauck/changeset-test/commit/f7e5300c5663f92e68015495789c160662f7840f))
+
 ## 0.6.0
 
 ## 0.5.0
