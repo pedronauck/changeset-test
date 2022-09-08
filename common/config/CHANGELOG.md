@@ -1,5 +1,11 @@
 # @changeset-test123/config
 
+## 1.5.0
+
+### Minor Changes
+
+- tetete, by [@pedronauck](https://github.com/pedronauck) (See [`cba3d20`](https://github.com/pedronauck/changeset-test/commit/cba3d20129512bfb2479fa62c9f382cb35dcaa2b))
+
 ## 1.4.0
 
 ### Minor Changes
