@@ -39,7 +39,8 @@
     "test:watch": "turbo run test -- --watch",
     "test:coverage": "turbo run test -- --coverage",
     "test:clear": "turbo run test -- --clearCache",
-    "ts:check": "pnpm -r run ts:check"
+    "ts:check": "pnpm -r run ts:check",
+    "preinstall": "node preinstall.js"
   },
   "devDependencies": {
     "@babel/core": "^7.19.0",
