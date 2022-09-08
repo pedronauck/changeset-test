@@ -1,5 +1,11 @@
 # @changeset-test123/css
 
+## 1.2.0
+
+### Minor Changes
+
+- test43, by [@pedronauck](https://github.com/pedronauck) (See [`2bf7eb8`](https://github.com/pedronauck/changeset-test/commit/2bf7eb8d6ad73d01a1a987edd161da4aa4cb6c9d))
+
 ## 1.1.0
 
 ### Minor Changes
