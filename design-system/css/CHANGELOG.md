@@ -1,5 +1,11 @@
 # @changeset-test123/css
 
+## 1.4.0
+
+### Minor Changes
+
+- tedt666, by [@pedronauck](https://github.com/pedronauck) (See [`63c340e`](https://github.com/pedronauck/changeset-test/commit/63c340eebd379cbd3aa6db8643fe692af893891d))
+
 ## 1.3.0
 
 ### Minor Changes
