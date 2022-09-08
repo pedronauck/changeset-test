@@ -4,4 +4,4 @@
 "@changeset-test123/css": minor
 ---
 
-Test 1
+test2
