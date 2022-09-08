@@ -1,5 +1,11 @@
 # @changeset-test123/test-utils
 
+## 1.6.0
+
+### Minor Changes
+
+- Test 1, by [@pedronauck](https://github.com/pedronauck) (See [`435badf`](https://github.com/pedronauck/changeset-test/commit/435badf52b1280e39788a11c7729a316633a5a23))
+
 ## 1.5.0
 
 ### Minor Changes
